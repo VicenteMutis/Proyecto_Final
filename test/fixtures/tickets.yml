@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  claim_date: 2023-06-09
+  due_date: 2023-06-09
+  priority: 1
+  status: 1
+  incident: one
+  user_normal: one
+  user_administrator: one
+  user_supervisor: one
+  user_executive: one
+
+two:
+  claim_date: 2023-06-09
+  due_date: 2023-06-09
+  priority: 1
+  status: 1
+  incident: two
+  user_normal: two
+  user_administrator: two
+  user_supervisor: two
+  user_executive: two
